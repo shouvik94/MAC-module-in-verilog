@@ -1,2 +1,4 @@
 # MAC-module-in-verilog
- Combining floating point multiplier and adder
+ Designing Adder and Multiplier in IEEE754 format for floating point numbers
+ Combining the two modules with timing verification
+ 
